@@ -1,5 +1,6 @@
 # Chatbot-for-College
 NLP & Python
 
-#chatbot.py
-#training.py
+chatbot.py
+
+training.py
